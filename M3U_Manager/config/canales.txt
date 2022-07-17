@@ -1,0 +1,8 @@
+{
+'|ES| ANTENA 3': 'pony.png',
+'|ES| ANTENA 3 FHD': 'pony2.png',
+'|ES| CUATRO': 'caballo.png',
+'|ES| CUATRO FHD': 'caballo2.png',
+'|ES| TELECINCO': 'avestruz.png',
+'|ES| TELECINCO FHD': 'avestruz2.png'
+}
