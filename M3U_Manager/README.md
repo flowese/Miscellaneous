@@ -10,6 +10,6 @@
 ##### 4. Se genera un archivo de salida en output/ por lista de usuario.
 
 ###### Probado en:
-####### Python 3.9.6
-####### Mac OSX 12.4
-####### Debian 11 (docker)
+###### Python 3.9.6
+###### Mac OSX 12.4
+###### Debian 11 (docker)
