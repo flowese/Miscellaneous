@@ -68,7 +68,7 @@ def gestionar_temporales(): # Borrar archivos temporales
         exit()
 
 
-if __name__ == '__main__': # INICIO SCRPIT PRINCIPAL
+if __name__ == '__main__': # INICIO SCRPIT
     listas_de_usuario = leer_listas_m3u() # 1. Leer listas M3U de listas.txt.
     for usuarios in listas_de_usuario: # 2. Descargar archivo M3U de las listas.
         tiempo_inicio = time.time()
