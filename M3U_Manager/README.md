@@ -1,6 +1,6 @@
 # M3U LOGO MANAGER
 
-![hubi_red](https://user-images.githubusercontent.com/11386860/179783724-918d62f5-829d-4a63-a67a-92dd0aabd2fa.png)
+![hubi-gif](https://user-images.githubusercontent.com/11386860/179860510-4dff8fb3-4fc9-4011-bc9d-30673ea5104b.gif)
 ### Written by: @flowese in 2022 - Portable concept for Hubi.
 
 ##### El siguiente script reemplaza y añade el logo de los canales especificados en ficheros de listas de IPTV con formato M3U.
