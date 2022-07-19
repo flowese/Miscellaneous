@@ -2,7 +2,7 @@
 ### Written by: @flowese in 2022 - hubi devs.
 ![hubi_mini](https://user-images.githubusercontent.com/11386860/179780555-9860eebb-2e3f-4a34-87d8-2fc1e04ba35a.png)
 
-##### El siguiente script reemplaza y/o añade el logo de los canales especificados en ficheros de listas de IPTV con formato M3U.
+##### El siguiente script reemplaza y añade el logo de los canales especificados en ficheros de listas de IPTV con formato M3U.
 
 ##### INSTRUCCIONES:
 ##### 0. Clonar repositorio.
@@ -16,7 +16,7 @@
 
 ------
 
-##### The following script replaces and/or adds the logo of the channels specified in IPTV list files with M3U format.
+##### The following script replaces and adds the logo of the channels specified in IPTV list files with M3U format.
 ##### INSTRUCTIONS:
 ##### 0. Clone repo.
 ##### 1. Edit configuration files channels.txt (with logos) and lists.txt (with iptv lists) to taste.
