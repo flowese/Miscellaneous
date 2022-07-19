@@ -1,7 +1,7 @@
 import re # importar libreria re para buscar patrones y reemplazar.
 
 output_dir = 'output/'
-filename = f'{output_dir}flowese.m3u'
+filename = f'{output_dir}ejemplo.m3u'
 
 def filtrar_m3u(): # Procesamineto y generación archivo M3U.
     with open(filename, 'r') as input_file:
