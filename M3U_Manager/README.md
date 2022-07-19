@@ -13,6 +13,8 @@
 ###### Probado en:
 ###### Python 3.9.6, Mac OSX 12.4, Debian 11 (docker)
 
+------
+
 ##### The following script replaces and/or adds the logo of the channels specified in IPTV list files with M3U format.
 ##### INSTRUCTIONS:
 ##### 1. Edit configuration files channels.txt (with logos) and lists.txt (with iptv lists) to taste.
