@@ -18,7 +18,7 @@
 
 ##### The following script replaces and/or adds the logo of the channels specified in IPTV list files with M3U format.
 ##### INSTRUCTIONS:
-##### 0. Clone repositorio.
+##### 0. Clone repo.
 ##### 1. Edit configuration files channels.txt (with logos) and lists.txt (with iptv lists) to taste.
 ##### 2. Install requirements: pip install -r requirements.txt
 ##### 3. Run with: python3 app.py
