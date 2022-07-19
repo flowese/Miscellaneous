@@ -1,4 +1,4 @@
 {
-'flowese': 'http://example.com',
-'redit': 'http://example.com'
+'flowese': 'http://example.com/file.m3u',
+'redit': 'http://example.com/file2.m3u'
 }
